@@ -33,6 +33,6 @@
 
    注意修改MY_COOKIES,可以从网页上获取
    
-   fetchHottelList和fecthHotelDetail代码中只需要修改MY_COOKIES即可，
+   fetchHottelList和fecthHotelDetail代码中只需要修改顶部的MY_COOKIES即可，fecthHotelDetail中fetchInfo函数的cookies可以不用改
 
-   而fetchHotelComments代码中不仅需要修改MY_COOKIES还要修改FX_TOKEN、TRACE_ID
+   而fetchHotelComments代码中不仅需要修改顶部的MY_COOKIES还要修改FX_TOKEN、TRACE_ID
